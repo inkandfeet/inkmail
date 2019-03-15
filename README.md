@@ -24,8 +24,8 @@ Know what your readers loved
 - Active, ❤️-based feedback baked in.  Know what emails your readers _loved_.
 
 Human Replies
-- See replies and reply from the web interface.  No more inbox floods.
-- Have context when you reply - see all conversations with this person, and if they've made purchases from you.
+- See replies and write back from the web interface.  No more inbox floods.
+- Have context when you reply - see all conversations you've had with the person, and if they've made purchases from you.
 
 Securely Integrated
 - Can securely receive and store information about user purchases and context from other systems (Stripe, Inkshop, etc).
@@ -36,11 +36,17 @@ Good for business
 - Email that people actually want to open.
 
 
-Compliant
+Secure and Compliant
 - GDPR compliant.
 - CAN-SPAM compliant.
 - Auditable logs of what's been sent that you can see.
 - No cookies. No logins. No tracking.
+
+
+Tech:
+- Sendgrid
+- SES. Auto-unsubscribe bounces.
+    option for dedicated IP.  
 
 
 
