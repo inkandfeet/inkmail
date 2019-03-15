@@ -13,7 +13,7 @@ No creepy tracking
 Email from a person, not an automated system.
 - No HTML templates
 - No automated sequences
-- Basic Markdown support (bold, italic, links)
+- Basic Markdown support (bold, italic, lists, links)
 - Basic customization - first and last name only.
 - Emoji support
 - Time zone support.
@@ -43,7 +43,7 @@ Secure and Compliant
 - No cookies. No logins. No tracking.
 
 
-Tech:
+Works with multiple backends.
 - Sendgrid
 - SES. Auto-unsubscribe bounces.
     option for dedicated IP.  
@@ -51,7 +51,7 @@ Tech:
 
 
 Treat email like sleeping with someone.  "Yes" once doesn't mean "yes" forever.
+Don't be creepy.  Go away if they're not interested anymore.
 Be real.
 Show up.
-Don't be a stalker.
 
