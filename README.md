@@ -1,6 +1,6 @@
-
 # Inkmail
-Mailing lists for people you actually like.  Maybe even love.
+
+Mailing lists for people you actually like.  Maybe even love. :)
 
 Send email to people who want it.
 - Active, positive consent.
@@ -10,14 +10,15 @@ No creepy tracking
 - No open tracking.
 - No click tracking.
 
-Email from a person, not an email system.
-- Basic customization - first and last name only.
-- Basic Markdown support (bold, italic, links)
-- Emoji support
+Email from a person, not an automated system.
 - No HTML templates
 - No automated sequences
+- Basic Markdown support (bold, italic, links)
+- Basic customization - first and last name only.
+- Emoji support
+- Time zone support.
 - No segments.  (Only confirmed subscriptions. Please see consent, active.)
-- no cookies, no logins, nothing.  No GDPR issues, and no silly cookie consent popups.
+- No cookies, no logins, nothing.  No GDPR issues, and no silly cookie consent popups.
 
 Know what your readers loved
 - Active, ❤️-based feedback baked in.  Know what emails your readers _loved_.
@@ -34,9 +35,13 @@ Good for business
 - Stop acting like a spammer, and start landing in people's inboxes.
 - Email that people actually want to open.
 
+
 Compliant
 - GDPR compliant.
+- CAN-SPAM compliant.
+- Auditable logs of what's been sent that you can see.
 - No cookies. No logins. No tracking.
+
 
 
 Treat email like sleeping with someone.  "Yes" once doesn't mean "yes" forever.
